@@ -57,6 +57,9 @@ bash run_train_mask_rcnn.sh
 cd mmdetection
 bash run_train_sparse_rcnn.sh
 ```
+### 测试模型
+共有三个代码，在 eval文件夹中，只需填入模型路径，即可进行测试
+
 
 ## 参考链接
 
