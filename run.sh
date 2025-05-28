@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python tools/train.py /data/jiangzishang/lty/作业/张力/mmdetection/configs/mask_rcnn/mask-rcnn_r50_fpn_1x_voc.py
